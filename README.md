@@ -1,4 +1,4 @@
-# serisoon
+# SeriAmigo | static  web  page
 
 A new Flutter project.
 
